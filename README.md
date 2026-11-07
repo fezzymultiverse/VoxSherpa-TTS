@@ -214,3 +214,4 @@ https://www.gnu.org/licenses/gpl-3.0.html
 *VoxSherpa — Because your voice deserves to stay yours.*
 
 </div> 
+ 
